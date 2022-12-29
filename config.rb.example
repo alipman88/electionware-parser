@@ -1,0 +1,6 @@
+DATE = '20221108'
+ELECTION = 'general'
+STATE = 'PA'
+DEFAULT_HEADERS = ['county', 'precinct', 'office', 'district', 'party', 'candidate', 'votes']
+PDF_READER = 'Google Chrome.app'
+TEXT_EDITOR = 'TextEdit.app'
